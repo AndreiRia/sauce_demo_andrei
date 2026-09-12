@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# venv
+.venv/
+venv/
+env/
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+
+# Allure
+allure-results/
+allure-report/
+
+# reports
+report.html
+htmlcov/
+
+# env
+.env
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
